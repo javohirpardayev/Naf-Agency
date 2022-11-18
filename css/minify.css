@@ -344,6 +344,13 @@ a {
   border-radius: 10px;
   padding: 3rem 2.9rem 2.6rem;
 }
+.marketing:hover {
+  background: rgba(35, 4, 157, 0.03);
+  border: 1px solid #feab38;
+  border-radius: 10px;
+  box-shadow: -4px -4px 10px rgba(0, 0, 0, 0.03),
+    4px 4px 10px rgba(0, 0, 0, 0.03);
+}
 .biz-line,
 footer {
   background: #37474f;
